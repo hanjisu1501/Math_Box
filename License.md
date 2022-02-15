@@ -5,3 +5,5 @@ Premium
 -Enterprise use: 500$ per month
 
 -Educational use: 10$ per month
+
+서명진 메롱
